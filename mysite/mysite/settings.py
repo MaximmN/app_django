@@ -105,7 +105,8 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+#change time zome
+TIME_ZONE = 'UTC+3'
 
 USE_I18N = True
 
